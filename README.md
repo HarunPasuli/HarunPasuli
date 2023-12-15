@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/4164418/pexels-photo-4164418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://harunpasuli.carrd.co)
+[![MasterHead](https://github.com/HarunPasuli/HarunPasuli/assets/84332954/914e1453-4742-4126-8701-19a4af615306)](https://harunpasuli.carrd.co)
 <h1 align="center">Hi 👋, I'm Harun Pasuli</h1>
 <h3 align="center">A fullstack web developer from Kosovo</h3>
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/Rlv0IYb6wpP57uy0KAQsSUoGbqE9udDx184q0S9tBZI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvY29kaW5n/LWFuaW1hdGVkLWxh/cHRvcC1mbG93LXN0/cmVhbS1qYTA0MDEw/cm01bzY4emZrLmdp/Zg.gif">
